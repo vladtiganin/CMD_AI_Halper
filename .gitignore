@@ -1,2 +1,5 @@
 .env
 /p.md
+venv/
+__pycache__/
+*.pyc
